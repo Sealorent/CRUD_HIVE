@@ -25,6 +25,9 @@ dependencies:
   flutter:
     sdk: flutter
   fluttertoast: ^8.0.8
+  geocoding: ^2.0.2
+  geolocator: ^8.0.3
+  google_maps_flutter: ^2.1.1
   hive: ^2.0.4
   hive_flutter: ^1.1.0
   path_provider: ^2.0.8
@@ -47,7 +50,7 @@ flutter:
   # To add Flutter specific assets to your application, add an assets section,
   # like this:
   assets:
-    - assets/logo.png
+    - assets/Flutter.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
